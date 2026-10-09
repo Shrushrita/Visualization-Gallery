@@ -133,4 +133,4 @@ Keep image paths relative so the markdown renders correctly on GitHub and in oth
 
 | Date | Change | By |
 |------|--------|----|
-| YYYY-MM-DD | Initial template created | Shrushrita |
+| 2026-10-09 | Initial template created | Shrushrita |
