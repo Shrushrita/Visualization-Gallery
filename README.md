@@ -4,7 +4,7 @@ A collection of images generated across other projects: DICOM images extracted f
 
 - **Maintainer:** Shrushrita Sharma, Personal Project
 - **Last updated:** 2026-10-09
-- **Status:** Draft template. Replace every `<placeholder>` before use.
+- **Status:** Draft template. Every section shall be updated with progress in the current project.
 
 > **Data handling note:** Only de-identified images belong in this gallery. Confirm that burned-in annotations and DICOM header fields (patient name, ID, birth date, accession number) have been removed before adding an image.
 
